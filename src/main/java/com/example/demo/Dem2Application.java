@@ -11,7 +11,7 @@ public class Dem2Application {
 	@GetMapping
 	public String helloWorld()
 	{
-		return "helloWorld";
+		return "hello ,how are you?";
 	}
 
 
